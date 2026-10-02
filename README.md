@@ -1,0 +1,1 @@
+# FAERS-Adverse-Event-Demographics-EDA-Association-Rule-Mining
